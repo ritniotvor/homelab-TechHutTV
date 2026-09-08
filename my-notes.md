@@ -1,1 +1,1 @@
-https://www.youtube.com/watch?v=qmSizZUbCOA&t=596s
+[![Náhled videa](https://img.youtube.com/vi/qmSizZUbCOA/maxresdefault.jpg)](https://youtu.be/qmSizZUbCOA)
